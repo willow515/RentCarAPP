@@ -1,0 +1,83 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<h1>Selamat Datang di Rental Mobil Kami</h1>
+
+<form method="get" class="search-form">
+    <div class="form-group">
+        <label>Pickup Date:</label>
+        <input type="date" name="PickupDate" value="@Model.PickupDate?.ToString("yyyy-MM-dd")" required />
+    </div>
+    <div class="form-group">
+        <label>Return Date:</label>
+        <input type="date" name="ReturnDate" value="@Model.ReturnDate?.ToString("yyyy-MM-dd")" required />
+    </div>
+    <div class="form-group">
+        <label>Filter Tahun Pembuatan:</label>
+        <select name="FilterTahun">
+            <option value="">Semua Tahun</option>
+            <option value="2019" selected="@(Model.FilterTahun == 2019)">2019</option>
+            <option value="2021" selected="@(Model.FilterTahun == 2021)">2021</option>
+            <option value="2023" selected="@(Model.FilterTahun == 2023)">2023</option>
+        </select>
+    </div>
+    <button type="submit" class="btn-search">Cari</button>
+</form>
+
+<div class="car-list">
+    @foreach (var car in Model.Cars)
+    {
+        <div class="car-card">
+            <img src="@car.Image_link" alt="@car.Name" />
+            <div class="car-info">
+                <h3>@car.Name @car.Year</h3>
+                <p>Transmisi: @car.Transmission</p>
+                <p>Kapasitas: @car.Number_of_car_seats Penumpang</p>
+                <p class="price">Harga: Rp @car.Price_per_day.ToString("N0") / hari</p>
+                <a asp-page="/Rent" 
+                   asp-route-id="@car.Car_id" 
+                   asp-route-pickup="@Model.PickupDate?.ToString("yyyy-MM-dd")" 
+                   asp-route-return="@Model.ReturnDate?.ToString("yyyy-MM-dd")" 
+                   class="btn-rent">Sewa Sekarang</a>
+            </div>
+        </div>
+    }
+</div>
+
+
+<div class="pagination">
+    <a class="active">1</a>
+    <a href="#">2</a>
+    <a href="#">3</a>
+</div>
+
+@section Scripts {
+    <script>
+        // Sorting client-side
+        const sortSelect = document.getElementById('sortSelect');
+        if (sortSelect) {
+            sortSelect.addEventListener('change', () => {
+                const carList = document.querySelector('.car-list');
+                const cards = Array.from(carList.querySelectorAll('.car-card'));
+                cards.sort((a, b) => {
+                    const hargaA = parseInt(a.querySelector('.price').textContent.replace(/[^\d]/g, ''));
+                    const hargaB = parseInt(b.querySelector('.price').textContent.replace(/[^\d]/g, ''));
+                    return sortSelect.value === 'hargaAsc' ? hargaA - hargaB : hargaB - hargaA;
+                });
+                cards.forEach(card => carList.appendChild(card));
+            });
+        }
+
+        // Validasi tanggal
+        const form = document.querySelector('form');
+        form.addEventListener('submit', (e) => {
+            const pickup = new Date(document.querySelector('[name="PickupDate"]').value);
+            const returnDate = new Date(document.querySelector('[name="ReturnDate"]').value);
+            if (returnDate <= pickup) {
+                alert('Return Date harus setelah Pickup Date!');
+                e.preventDefault();
+            }
+        });
+    </script>
+}

@@ -1,0 +1,52 @@
+﻿@page
+@model PRojectRentcarwebclident.Pages.RegisterModel
+@{
+    ViewData["Title"] = "Registrasi";
+}
+<div class="auth-card">
+    <h1>Registrasi ke RentCar</h1>
+    <form asp-page-handler="OnPost" method="post">
+        <div class="form-group">
+            <label>Nama Lengkap</label>
+            <input type="text" asp-for="Input.Name" required />
+        </div>
+        <div class="form-group">
+            <label>Email</label>
+            <input type="email" asp-for="Input.Email" required />
+        </div>
+        <div class="form-group">
+            <label>Password</label>
+            <input type="password" asp-for="Input.Password" required />
+        </div>
+        <div class="form-group">
+            <label>Re-Password</label>
+            <input type="password" name="RePassword" required />
+        </div>
+        <div class="form-group">
+            <label>Nomor Telepon</label>
+            <input type="tel" asp-for="Input.Phone_number" required />
+        </div>
+        <div class="form-group">
+            <label>Alamat</label>
+            <input type="text" asp-for="Input.Address" required />
+        </div>
+        <button type="submit" class="btn-submit">Registrasi</button>
+    </form>
+    <div class="link">
+        <p>Sudah punya akun? <a asp-page="/Login">Login disini</a></p>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        const form = document.querySelector('form');
+        form.addEventListener('submit', (e) => {
+            const password = document.getElementById('password').value;
+            const rePassword = document.getElementById('rePassword').value;
+            if (password !== rePassword) {
+                alert('Password tidak cocok!');
+                e.preventDefault();
+            }
+        });
+    </script>
+}

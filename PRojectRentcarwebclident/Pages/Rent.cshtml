@@ -1,0 +1,49 @@
+﻿@page
+@model PRojectRentcarwebclident.Pages.RentModel
+
+@{
+    ViewData["Title"] = "Sewa Mobil";
+}
+<link rel="stylesheet" href="~/css/rent.css" />
+<h1>Sewa Mobil</h1>
+<div asp-validation-summary="All" class="text-danger" style="color: red; background: #ffe6e6; padding: 10px; margin-bottom: 10px;"></div>
+<div class="rent-summary">
+    
+       
+    <div class="rent-image">
+        <img src="@Model.Car.Image_link" alt="@Model.Car.Name" />
+        
+    </div>
+
+    <div class="rent-details">
+        <h2>Informasi Mobil</h2>
+        <table>
+            <tr><td>tipe Mobil</td><td>@Model.Car.Name </td></tr>
+            <tr><td>Nama Mobil</td><td>@Model.Car.Name @Model.Car.Year</td></tr>
+            <tr><td>Transmisi</td><td>@Model.Car.Transmission</td></tr>
+            <tr><td>Jumlah Penumpang</td><td>@Model.Car.Number_of_car_seats orang</td></tr>
+            <tr><td>Nama Penyewa</td><td>@User.Identity?.Name </td></tr>
+            <tr><td>Tanggal Sewa</td><td>@Model.PickupDate.ToShortDateString() s/d @Model.ReturnDate.ToShortDateString()</td></tr>
+            <tr><td>Harga Sewa per Hari</td><td>Rp @Model.Car.Price_per_day.ToString("N0")</td></tr>
+            <tr><td>Total Harga Sewa</td><td>Rp <span id="totalHarga">0</span></td></tr>
+        </table>
+
+        <form asp-page-handler="Confirm" method="post">
+            <input type="hidden" name="Car_id" value="@Model.Car.Car_id" />
+            <input type="hidden" name="Rental_date" value="@Model.PickupDate.ToString("yyyy-MM-dd")" />
+            <input type="hidden" name="Return_date" value="@Model.ReturnDate.ToString("yyyy-MM-dd")" />
+            <button type="submit" class="btn">Sewa</button>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        const hargaPerHari = @Model.Car.Price_per_day;
+        const pickup = new Date('@Model.PickupDate:yyyy-MM-dd');
+        const returnDate = new Date('@Model.ReturnDate:yyyy-MM-dd');
+        const days = Math.ceil((returnDate - pickup) / (1000 * 60 * 60 * 24)) + 1 || 1;
+        const total = days * hargaPerHari;
+        document.getElementById('totalHarga').textContent = total.toLocaleString('id-ID');
+    </script>
+}

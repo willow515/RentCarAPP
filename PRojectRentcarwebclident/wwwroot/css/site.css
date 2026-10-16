@@ -1,0 +1,409 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f5ff;
+    color: #333;
+    line-height: 1.6;
+   
+}
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Mengambil 100% tinggi viewport */
+}
+
+
+
+header {
+    background: linear-gradient(to right, #c39bd3, #bb8fce);
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    position: relative;
+}
+
+.logo {
+    font-size: 28px;
+    font-weight: bold;
+    color: white;
+}
+
+.hamburger {
+    font-size: 28px;
+    color: white;
+    cursor: pointer;
+    display: block;
+}
+
+.nav-buttons .btn-auth {
+    background-color: #ff9999;
+    color: white;
+    padding: 8px 20px;
+    border: none;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: 500;
+    margin-left: 10px;
+    transition: background 0.3s;
+}
+
+    .nav-buttons .btn-auth:hover {
+        background-color: #ff8080;
+    }
+
+.nav-buttons .user-name {
+    background-color: #e6ccff;
+    color: #6a1b9a;
+    padding: 8px 20px;
+    border-radius: 20px;
+    font-weight: 600;
+}
+
+
+.menu {
+    display: none;
+    position: absolute;
+    top: 70px;
+    left: 20px;
+    background-color: #6a1b9a;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    z-index: 100;
+    min-width: 200px;
+}
+
+    .menu.show {
+        display: block;
+    }
+
+    .menu a {
+        display: block;
+        color: white;
+        padding: 12px 20px;
+        text-decoration: none;
+        transition: background 0.3s;
+    }
+
+        .menu a:hover {
+            background-color: #7e57c2;
+        }
+
+
+.container {
+    width: 100%;
+    margin: 30px auto;
+    padding: 30px;
+    background-color: #f8f5ff;
+    border-radius: 15px;
+    box-shadow: 0 5px 20px rgba(179, 133, 255, 0.15);
+}
+
+
+h1 {
+    text-align: center;
+    color: #6a1b9a;
+    margin-bottom: 30px;
+    font-size: 28px;
+}
+
+
+.search-form {
+    background-color: #e3f2fd;
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    align-items: end;
+}
+
+    .search-form .form-group {
+        flex: 1;
+        min-width: 200px;
+    }
+
+    .search-form label {
+        display: block;
+        margin-bottom: 5px;
+        color: #555;
+        font-weight: 500;
+    }
+
+    .search-form input[type="date"],
+    .search-form select {
+        width: 100%;
+        padding: 12px;
+        border: 1px solid #bbdefb;
+        border-radius: 8px;
+        font-size: 16px;
+    }
+
+    .search-form .btn-search {
+        background-color: #ff9999;
+        color: white;
+        padding: 12px 30px;
+        border: none;
+        border-radius: 25px;
+        font-size: 16px;
+        cursor: pointer;
+        transition: background 0.3s;
+    }
+
+        .search-form .btn-search:hover {
+            background-color: #ff8080;
+        }
+
+
+.car-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 25px;
+    margin-top: 30px;
+}
+
+.car-card {
+    background-color: #e1f5fe;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+    transition: transform 0.3s;
+}
+
+    .car-card:hover {
+        transform: translateY(-8px);
+    }
+
+    .car-card img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+    }
+
+.car-info {
+    padding: 20px;
+    text-align: center;
+}
+
+    .car-info h3 {
+        color: #424242;
+        margin-bottom: 10px;
+    }
+
+    .car-info .price {
+        font-size: 18px;
+        font-weight: bold;
+        color: #6a1b9a;
+        margin: 15px 0;
+    }
+
+    .car-info .btn-rent {
+        background-color: #81d4fa;
+        color: #01579b;
+        padding: 10px 25px;
+        border: none;
+        border-radius: 25px;
+        font-weight: 600;
+        cursor: pointer;
+        transition: background 0.3s;
+    }
+
+        .car-info .btn-rent:hover {
+            background-color: #4fc3f7;
+        }
+
+
+.sort-pagination {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px 0;
+}
+
+    .sort-pagination select {
+        padding: 10px;
+        border-radius: 8px;
+        border: 1px solid #bbdefb;
+    }
+
+.pagination a {
+    padding: 8px 14px;
+    margin: 0 5px;
+    background-color: #e3f2fd;
+    color: #01579b;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+    .pagination a.active {
+        background-color: #81d4fa;
+        color: white;
+    }
+
+
+.auth-card {
+    max-width: 500px;
+    margin: 50px auto;
+    background-color: #f3e5f5;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(179, 133, 255, 0.2);
+}
+
+    .auth-card h1 {
+        color: #6a1b9a;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .auth-card .form-group {
+        margin-bottom: 20px;
+    }
+
+    .auth-card label {
+        display: block;
+        margin-bottom: 8px;
+        color: #555;
+        font-weight: 500;
+    }
+
+    .auth-card input {
+        width: 100%;
+        padding: 14px;
+        border: 1px solid #e1bee7;
+        border-radius: 10px;
+        font-size: 16px;
+    }
+
+    .auth-card .btn-submit {
+        width: 100%;
+        background-color: #ff9999;
+        color: white;
+        padding: 14px;
+        border: none;
+        border-radius: 25px;
+        font-size: 18px;
+        font-weight: 600;
+        cursor: pointer;
+        margin-top: 20px;
+    }
+
+        .auth-card .btn-submit:hover {
+            background-color: #ff8080;
+        }
+
+    .auth-card .link {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+        .auth-card .link a {
+            color: #6a1b9a;
+            text-decoration: none;
+        }
+
+
+.rent-summary {
+    max-width: 800px;
+    margin: 30px auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    align-items: start;
+}
+
+.rent-image {
+    flex: 1;
+    min-width: 300px;
+    text-align: center;
+}
+
+    .rent-image img {
+        max-width: 500px;
+        border-radius: 15px;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    }
+
+.rent-details {
+    flex: 1;
+    min-width: 300px;
+    background-color: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 5px 20px rgba(179, 133, 255, 0.15);
+}
+
+    .rent-details table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    .rent-details td {
+        padding: 12px 0;
+        border-bottom: 1px solid #eee;
+    }
+
+        .rent-details td:first-child {
+            font-weight: 600;
+            color: #555;
+            width: 40%;
+        }
+
+
+.history-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+    .history-table th {
+        background-color: #d1c4e9;
+        color: #6a1b9a;
+        padding: 15px;
+        text-align: left;
+    }
+
+    .history-table td {
+        padding: 15px;
+        border-bottom: 1px solid #eee;
+    }
+
+    .history-table tr:nth-child(even) {
+        background-color: #f8f5ff;
+    }
+
+
+footer {
+    flex-shrink: 0;
+    width: 100%;
+    background-color: #b893c7; 
+    padding: 15px 0;
+    text-align: center;
+    color: white;
+}
+.sort-section{
+    display:flex;
+    justify-content:flex-end;
+    gap:11px;
+    align-items:center;
+
+}
+.sort-section select{
+    padding:10px;
+}
+
+.cardimg{
+    padding:10px;
+}
+
+main, .container  {
+    flex: 1 0 auto; 
+}

@@ -1,0 +1,35 @@
+﻿@page
+@model PRojectRentcarwebclident.Pages.HistoryModel
+@{
+    ViewData["Title"] = "Riwayat Penyewaan";
+    
+}
+<h1>Riwayat Penyewaan Mobil</h1>
+
+<table class="history-table">
+    <thead>
+        <tr>
+            <th>Tanggal Sewa</th>
+            <th>Mobil</th>
+            <th>Harga Sewa per Hari</th>
+            <th>Total Hari</th>
+            <th>Total Harga</th>
+            <th>Status Pembayaran</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.History)
+        {
+            var totalHari = (item.Return_date - item.Rental_date).Days + 1;
+            var hargaPerHari = totalHari > 0 ? item.Total_price / totalHari : 0;
+            <tr>
+                <td>@item.Rental_date.ToShortDateString() s/d @item.Return_date.ToShortDateString()</td>
+                <td>@item.Car?.Name @item.Car?.Year</td>
+                <td>Rp @hargaPerHari.ToString("N0")</td>
+                <td>@totalHari hari</td>
+                <td>Rp @item.Total_price.ToString("N0")</td>
+                <td>@(item.Payment_status == "1" ? "Sudah Dibayar" : "Belum Dibayar")</td>
+            </tr>
+        }
+    </tbody>
+</table>

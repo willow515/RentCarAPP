@@ -1,0 +1,482 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET\\PRojectRentcarwebclident\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|d:\\asp.net\\projectrentcarwebclident\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|solutionrelative:pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|d:\\asp.net\\projectrentcarwebclident\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|d:\\asp.net\\projectrentcarwebclident\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|d:\\asp.net\\projectrentcarwebclident\\pages\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|solutionrelative:pages\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|d:\\asp.net\\projectrentcarwebclident\\pages\\history.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|solutionrelative:pages\\history.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|d:\\asp.net\\projectrentcarwebclident\\pages\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|solutionrelative:pages\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|d:\\asp.net\\projectrentcarwebclident\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|d:\\asp.net\\projectrentcarwebclident\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|solutionrelative:pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|d:\\asp.net\\projectrentcarwebclident\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|d:\\asp.net\\projectrentcarwebclident\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|d:\\asp.net\\projectrentcarwebclident\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|d:\\asp.net\\projectrentcarwebclident\\wwwroot\\css\\searccarresults.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|solutionrelative:wwwroot\\css\\searccarresults.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|d:\\asp.net\\projectrentcarwebclident\\wwwroot\\css\\rent.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|solutionrelative:wwwroot\\css\\rent.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|d:\\asp.net\\projectrentcarwebclident\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|solutionrelative:wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|d:\\asp.net\\projectrentcarwebclident\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|solutionrelative:pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|d:\\asp.net\\projectrentcarwebclident\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|solutionrelative:services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|d:\\asp.net\\projectrentcarwebclident\\pages\\rent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|solutionrelative:pages\\rent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|d:\\asp.net\\projectrentcarwebclident\\pages\\home.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|solutionrelative:pages\\home.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|d:\\asp.net\\projectrentcarwebclident\\pages\\rent.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|solutionrelative:pages\\rent.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|d:\\asp.net\\projectrentcarwebclident\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|d:\\asp.net\\projectrentcarwebclident\\models\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|solutionrelative:models\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|d:\\asp.net\\projectrentcarwebclident\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|solutionrelative:pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|d:\\asp.net\\projectrentcarwebclident\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|solutionrelative:pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|d:\\asp.net\\projectrentcarwebclident\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|solutionrelative:pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|d:\\asp.net\\projectrentcarwebclident\\projectrentcarwebclident.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|solutionrelative:projectrentcarwebclident.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|d:\\asp.net\\projectrentcarwebclident\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|solutionrelative:pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|d:\\asp.net\\projectrentcarwebclident\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|d:\\asp.net\\projectrentcarwebclident\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{132F2600-6CB8-462E-B409-42CF878F6C79}|PRojectRentcarwebclident.csproj|solutionrelative:pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml",
+              "ToolTip": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T13:59:53.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\History.cshtml",
+              "RelativeDocumentMoniker": "Pages\\History.cshtml",
+              "ToolTip": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\History.cshtml*",
+              "RelativeToolTip": "Pages\\History.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T13:53:35.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "History.cshtml.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\History.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\History.cshtml.cs",
+              "ToolTip": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\History.cshtml.cs",
+              "RelativeToolTip": "Pages\\History.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T14:22:43.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "home.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\home.cshtml",
+              "RelativeDocumentMoniker": "Pages\\home.cshtml",
+              "ToolTip": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\home.cshtml*",
+              "RelativeToolTip": "Pages\\home.cshtml*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T07:35:32.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T07:32:23.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\Index.cshtml.cs*",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T04:44:49.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Login.cshtml",
+              "ToolTip": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\Login.cshtml",
+              "RelativeToolTip": "Pages\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T07:47:29.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-26T16:02:02.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T07:43:18.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\ASP.NET\\PRojectRentcarwebclident\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "D:\\ASP.NET\\PRojectRentcarwebclident\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-25T06:22:28.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\ASP.NET\\PRojectRentcarwebclident\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\ASP.NET\\PRojectRentcarwebclident\\wwwroot\\css\\site.css*",
+              "RelativeToolTip": "wwwroot\\css\\site.css*",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-24T13:56:07.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "searccarresults.css",
+              "DocumentMoniker": "D:\\ASP.NET\\PRojectRentcarwebclident\\wwwroot\\css\\searccarresults.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\searccarresults.css",
+              "ToolTip": "D:\\ASP.NET\\PRojectRentcarwebclident\\wwwroot\\css\\searccarresults.css",
+              "RelativeToolTip": "wwwroot\\css\\searccarresults.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-24T15:51:55.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "rent.css",
+              "DocumentMoniker": "D:\\ASP.NET\\PRojectRentcarwebclident\\wwwroot\\css\\rent.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\rent.css",
+              "ToolTip": "D:\\ASP.NET\\PRojectRentcarwebclident\\wwwroot\\css\\rent.css",
+              "RelativeToolTip": "wwwroot\\css\\rent.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-24T15:32:36.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "home.css",
+              "DocumentMoniker": "D:\\ASP.NET\\PRojectRentcarwebclident\\wwwroot\\css\\home.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\home.css",
+              "ToolTip": "D:\\ASP.NET\\PRojectRentcarwebclident\\wwwroot\\css\\home.css",
+              "RelativeToolTip": "wwwroot\\css\\home.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-24T16:07:31.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\PRojectRentcarwebclident\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "Services\\ApiService.cs",
+              "ToolTip": "D:\\ASP.NET\\PRojectRentcarwebclident\\Services\\ApiService.cs",
+              "RelativeToolTip": "Services\\ApiService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswGoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T03:14:55.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Login.cshtml.cs",
+              "ToolTip": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwBwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T14:35:18.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Rent.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\Rent.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Rent.cshtml",
+              "ToolTip": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\Rent.cshtml",
+              "RelativeToolTip": "Pages\\Rent.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T13:49:06.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "home.cshtml.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\home.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\home.cshtml.cs",
+              "ToolTip": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\home.cshtml.cs",
+              "RelativeToolTip": "Pages\\home.cshtml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T16:14:50.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\PRojectRentcarwebclident\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ASP.NET\\PRojectRentcarwebclident\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwDAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T03:16:20.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Rent.cshtml.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\Rent.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Rent.cshtml.cs",
+              "ToolTip": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\Rent.cshtml.cs",
+              "RelativeToolTip": "Pages\\Rent.cshtml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwFsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T14:25:03.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CarDto.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\PRojectRentcarwebclident\\Models\\CarDto.cs",
+              "RelativeDocumentMoniker": "Models\\CarDto.cs",
+              "ToolTip": "D:\\ASP.NET\\PRojectRentcarwebclident\\Models\\CarDto.cs",
+              "RelativeToolTip": "Models\\CarDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T10:53:33.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Logout.cshtml",
+              "ToolTip": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\Logout.cshtml",
+              "RelativeToolTip": "Pages\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T06:04:14.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Logout.cshtml.cs",
+              "ToolTip": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\Logout.cshtml.cs",
+              "RelativeToolTip": "Pages\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T06:06:14.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\Register.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Register.cshtml",
+              "ToolTip": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\Register.cshtml",
+              "RelativeToolTip": "Pages\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T13:43:42.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PRojectRentcarwebclident.csproj",
+              "DocumentMoniker": "D:\\ASP.NET\\PRojectRentcarwebclident\\PRojectRentcarwebclident.csproj",
+              "RelativeDocumentMoniker": "PRojectRentcarwebclident.csproj",
+              "ToolTip": "D:\\ASP.NET\\PRojectRentcarwebclident\\PRojectRentcarwebclident.csproj",
+              "RelativeToolTip": "PRojectRentcarwebclident.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-24T14:27:51.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Register.cshtml.cs",
+              "ToolTip": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\Register.cshtml.cs",
+              "RelativeToolTip": "Pages\\Register.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T14:35:48.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "D:\\ASP.NET\\PRojectRentcarwebclident\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "D:\\ASP.NET\\PRojectRentcarwebclident\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAKQqAAAAAAAAAADwv84rAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-25T03:11:14.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\ASP.NET\\PRojectRentcarwebclident\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T07:32:32.095Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

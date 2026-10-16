@@ -1,0 +1,289 @@
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\appsettings.Development.json
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\appsettings.json
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\RentCarApi.staticwebassets.endpoints.json
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\RentCarApi.exe
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\RentCarApi.deps.json
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\RentCarApi.runtimeconfig.json
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\RentCarApi.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\RentCarApi.pdb
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Azure.Core.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Azure.Identity.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Humanizer.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\System.CodeDom.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET\RentCarApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ASP.NET\RentCarApi\obj\Debug\net8.0\RentCarApi.csproj.AssemblyReference.cache
+D:\ASP.NET\RentCarApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\ASP.NET\RentCarApi\obj\Debug\net8.0\RentCarApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\RentCarApi\obj\Debug\net8.0\RentCarApi.AssemblyInfoInputs.cache
+D:\ASP.NET\RentCarApi\obj\Debug\net8.0\RentCarApi.AssemblyInfo.cs
+D:\ASP.NET\RentCarApi\obj\Debug\net8.0\RentCarApi.csproj.CoreCompileInputs.cache
+D:\ASP.NET\RentCarApi\obj\Debug\net8.0\RentCarApi.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP.NET\RentCarApi\obj\Debug\net8.0\RentCarApi.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET\RentCarApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\ASP.NET\RentCarApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\ASP.NET\RentCarApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\ASP.NET\RentCarApi\obj\Debug\net8.0\scopedcss\bundle\RentCarApi.styles.css
+D:\ASP.NET\RentCarApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\ASP.NET\RentCarApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\ASP.NET\RentCarApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\ASP.NET\RentCarApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\ASP.NET\RentCarApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\ASP.NET\RentCarApi\obj\Debug\net8.0\RentCarApi.csproj.Up2Date
+D:\ASP.NET\RentCarApi\obj\Debug\net8.0\RentCarApi.dll
+D:\ASP.NET\RentCarApi\obj\Debug\net8.0\refint\RentCarApi.dll
+D:\ASP.NET\RentCarApi\obj\Debug\net8.0\RentCarApi.pdb
+D:\ASP.NET\RentCarApi\obj\Debug\net8.0\RentCarApi.genruntimeconfig.cache
+D:\ASP.NET\RentCarApi\obj\Debug\net8.0\ref\RentCarApi.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\appsettings.json
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\RentCarApi.exe
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\RentCarApi.deps.json
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\RentCarApi.runtimeconfig.json
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\RentCarApi.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\RentCarApi.pdb
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Humanizer.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\obj\Debug\net8.0\RentCarApi.csproj.AssemblyReference.cache
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\obj\Debug\net8.0\RentCarApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\obj\Debug\net8.0\RentCarApi.AssemblyInfoInputs.cache
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\obj\Debug\net8.0\RentCarApi.AssemblyInfo.cs
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\obj\Debug\net8.0\RentCarApi.csproj.CoreCompileInputs.cache
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\obj\Debug\net8.0\RentCarApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\obj\Debug\net8.0\RentCarApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\obj\Debug\net8.0\staticwebassets\msbuild.RentCarApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\obj\Debug\net8.0\staticwebassets\msbuild.build.RentCarApi.props
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RentCarApi.props
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RentCarApi.props
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\obj\Debug\net8.0\scopedcss\bundle\RentCarApi.styles.css
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\obj\Debug\net8.0\RentCarApi.csproj.Up2Date
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\obj\Debug\net8.0\RentCarApi.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\obj\Debug\net8.0\refint\RentCarApi.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\obj\Debug\net8.0\RentCarApi.pdb
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\obj\Debug\net8.0\RentCarApi.genruntimeconfig.cache
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\RentCarApi\obj\Debug\net8.0\ref\RentCarApi.dll

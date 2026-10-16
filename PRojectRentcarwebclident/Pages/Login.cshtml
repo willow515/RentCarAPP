@@ -1,0 +1,30 @@
+﻿@page
+@model PRojectRentcarwebclident.Pages.LoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+<div class="auth-card">
+    <h1>Login ke RentCar</h1>
+    <form asp-page-handler="OnPost" method="post">
+        <div class="form-group">
+            <label>Username (Email)</label>
+            <input type="email" asp-for="Input.Email" required />
+        </div>
+        <div class="form-group">
+            <label>Password</label>
+            <input type="password" asp-for="Input.Password" required />
+        </div>
+        <button type="submit" class="btn-submit">Login</button>
+    </form>
+    <div class="link">
+        <p>Belum punya akun? <a asp-page="/Register">Registrasi disini</a></p>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        
+        const passwordInput = document.getElementById('password');
+        
+    </script>
+}

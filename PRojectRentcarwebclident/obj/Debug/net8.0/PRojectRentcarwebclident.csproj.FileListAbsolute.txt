@@ -1,0 +1,63 @@
+D:\ASP.NET\PRojectRentcarwebclident\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\ASP.NET\PRojectRentcarwebclident\obj\Debug\net8.0\PRojectRentcarwebclident.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\PRojectRentcarwebclident\obj\Debug\net8.0\PRojectRentcarwebclident.AssemblyInfoInputs.cache
+D:\ASP.NET\PRojectRentcarwebclident\obj\Debug\net8.0\PRojectRentcarwebclident.AssemblyInfo.cs
+D:\ASP.NET\PRojectRentcarwebclident\obj\Debug\net8.0\PRojectRentcarwebclident.csproj.CoreCompileInputs.cache
+D:\ASP.NET\PRojectRentcarwebclident\obj\Debug\net8.0\PRojectRentcarwebclident.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET\PRojectRentcarwebclident\obj\Debug\net8.0\PRojectRentcarwebclident.RazorAssemblyInfo.cache
+D:\ASP.NET\PRojectRentcarwebclident\obj\Debug\net8.0\PRojectRentcarwebclident.RazorAssemblyInfo.cs
+D:\ASP.NET\PRojectRentcarwebclident\bin\Debug\net8.0\appsettings.Development.json
+D:\ASP.NET\PRojectRentcarwebclident\bin\Debug\net8.0\appsettings.json
+D:\ASP.NET\PRojectRentcarwebclident\bin\Debug\net8.0\PRojectRentcarwebclident.staticwebassets.runtime.json
+D:\ASP.NET\PRojectRentcarwebclident\bin\Debug\net8.0\PRojectRentcarwebclident.staticwebassets.endpoints.json
+D:\ASP.NET\PRojectRentcarwebclident\bin\Debug\net8.0\PRojectRentcarwebclident.exe
+D:\ASP.NET\PRojectRentcarwebclident\bin\Debug\net8.0\PRojectRentcarwebclident.deps.json
+D:\ASP.NET\PRojectRentcarwebclident\bin\Debug\net8.0\PRojectRentcarwebclident.runtimeconfig.json
+D:\ASP.NET\PRojectRentcarwebclident\bin\Debug\net8.0\PRojectRentcarwebclident.dll
+D:\ASP.NET\PRojectRentcarwebclident\bin\Debug\net8.0\PRojectRentcarwebclident.pdb
+D:\ASP.NET\PRojectRentcarwebclident\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\ASP.NET\PRojectRentcarwebclident\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\ASP.NET\PRojectRentcarwebclident\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\ASP.NET\PRojectRentcarwebclident\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\ASP.NET\PRojectRentcarwebclident\obj\Debug\net8.0\scopedcss\bundle\PRojectRentcarwebclident.styles.css
+D:\ASP.NET\PRojectRentcarwebclident\obj\Debug\net8.0\scopedcss\projectbundle\PRojectRentcarwebclident.bundle.scp.css
+D:\ASP.NET\PRojectRentcarwebclident\obj\Debug\net8.0\staticwebassets.build.json
+D:\ASP.NET\PRojectRentcarwebclident\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\ASP.NET\PRojectRentcarwebclident\obj\Debug\net8.0\staticwebassets.development.json
+D:\ASP.NET\PRojectRentcarwebclident\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\ASP.NET\PRojectRentcarwebclident\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\ASP.NET\PRojectRentcarwebclident\obj\Debug\net8.0\PRojectRentcarwebclident.dll
+D:\ASP.NET\PRojectRentcarwebclident\obj\Debug\net8.0\refint\PRojectRentcarwebclident.dll
+D:\ASP.NET\PRojectRentcarwebclident\obj\Debug\net8.0\PRojectRentcarwebclident.pdb
+D:\ASP.NET\PRojectRentcarwebclident\obj\Debug\net8.0\PRojectRentcarwebclident.genruntimeconfig.cache
+D:\ASP.NET\PRojectRentcarwebclident\obj\Debug\net8.0\ref\PRojectRentcarwebclident.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\bin\Debug\net8.0\appsettings.json
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\bin\Debug\net8.0\PRojectRentcarwebclident.staticwebassets.runtime.json
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\bin\Debug\net8.0\PRojectRentcarwebclident.exe
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\bin\Debug\net8.0\PRojectRentcarwebclident.deps.json
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\bin\Debug\net8.0\PRojectRentcarwebclident.runtimeconfig.json
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\bin\Debug\net8.0\PRojectRentcarwebclident.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\bin\Debug\net8.0\PRojectRentcarwebclident.pdb
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\obj\Debug\net8.0\PRojectRentcarwebclident.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\obj\Debug\net8.0\PRojectRentcarwebclident.AssemblyInfoInputs.cache
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\obj\Debug\net8.0\PRojectRentcarwebclident.AssemblyInfo.cs
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\obj\Debug\net8.0\PRojectRentcarwebclident.csproj.CoreCompileInputs.cache
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\obj\Debug\net8.0\PRojectRentcarwebclident.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\obj\Debug\net8.0\PRojectRentcarwebclident.RazorAssemblyInfo.cache
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\obj\Debug\net8.0\PRojectRentcarwebclident.RazorAssemblyInfo.cs
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\obj\Debug\net8.0\staticwebassets\msbuild.PRojectRentcarwebclident.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\obj\Debug\net8.0\staticwebassets\msbuild.build.PRojectRentcarwebclident.props
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PRojectRentcarwebclident.props
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PRojectRentcarwebclident.props
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\obj\Debug\net8.0\scopedcss\bundle\PRojectRentcarwebclident.styles.css
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\obj\Debug\net8.0\scopedcss\projectbundle\PRojectRentcarwebclident.bundle.scp.css
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\obj\Debug\net8.0\PRojectRentcarwebclident.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\obj\Debug\net8.0\refint\PRojectRentcarwebclident.dll
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\obj\Debug\net8.0\PRojectRentcarwebclident.pdb
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\obj\Debug\net8.0\PRojectRentcarwebclident.genruntimeconfig.cache
+C:\Users\LOUIS IMMANUEL PHAN\Downloads\NETCSHARP_LOUIS_PHAN_2802448736\PRojectRentcarwebclident\obj\Debug\net8.0\ref\PRojectRentcarwebclident.dll

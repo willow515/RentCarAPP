@@ -1,0 +1,165 @@
+﻿<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - RentCar</title>
+    <style>
+        .tops{
+            display:flex;
+            gap:20px;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        header {
+            background-color: #d7bdf5;
+            padding: 15px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        .logo {
+            font-size: 28px;
+            font-weight: bold;
+            color: #fff;
+            text-decoration: none;
+        }
+
+        .nav-buttons {
+            display: flex;
+            gap: 10px;
+        }
+
+        .nav-button {
+            background-color: #ffb6c1;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            text-decoration: none;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+
+            .nav-button:hover {
+                background-color: #ff9bb4;
+            }
+
+        .hamburger {
+            display: none;
+            cursor: pointer;
+            font-size: 28px;
+            color: #fff;
+        }
+
+        .menu {
+            display: none;
+            position: absolute;
+            top: 70px;
+            right: 20px;
+            background-color: #fff;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+            border-radius: 8px;
+            padding: 10px;
+        }
+
+            .menu a {
+                display: block;
+                padding: 10px;
+                color: #333;
+                text-decoration: none;
+            }
+
+                .menu a:hover {
+                    background-color: #f0e6ff;
+                }
+
+        .auth-section {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            color: #fff;
+            font-weight: bold;
+        }
+
+        .btn-logout {
+            background-color: #ff6b6b;
+            padding: 8px 16px;
+            border-radius: 6px;
+            color: #fff;
+            text-decoration: none;
+        }
+       
+            
+
+        .hamburger {
+            display: block;
+        }
+
+        .menu.show {
+            display: block;
+            width:max-content;
+        }
+
+        }
+    </style>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <div class="tops">
+        <div class="hamburger">☰</div>
+        <div class="menu">
+            <a asp-page="/Index">Home</a>
+            <a asp-page="/History">Riwayat</a>
+            @if (User.Identity?.IsAuthenticated == true)
+            {
+                <a asp-page="/Logout">Logout</a>
+            }
+           
+        
+
+       </div>
+        <a href="/" class="logo">RentCar</a>
+        </div>
+        <div class="auth-section">
+            @if (User.Identity?.IsAuthenticated == true)
+            {
+                <span>Hai, @User.Identity.Name!</span>
+                <a asp-page="/Logout" class="btn-logout">Logout</a>
+            }
+            else
+            {
+                <a asp-page="/Login" class="nav-button">Login</a>
+                <a asp-page="/Register" class="nav-button">Register</a>
+            }
+        </div>
+
+        
+    </header>
+    <main class="container">
+        @RenderBody()
+    </main>
+    <footer>
+        &copy; 2024 RentCar App. Semua Hak Dilindungi.
+    </footer>
+    <script>
+        const hamburger = document.querySelector('.hamburger');
+        const menu = document.querySelector('.menu');
+        hamburger.addEventListener('click', () => {
+            menu.classList.toggle('show');
+        });
+    </script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

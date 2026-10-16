@@ -1,0 +1,44 @@
+﻿.rent-summary
+{display: flex;
+ flex-direction:column;
+ justify-content:center;
+ align-items:center;
+}
+.btn {
+    background-color: #ffb6c1;
+    margin-top:10px;
+    display:flex;
+    justify-content:center;
+    align-content:center;
+    align-items:center;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.3s;
+    margin-left:145px;
+   
+}
+
+.pagination a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    border: 1px solid #ddd;
+    margin: 0 4px;
+    border-radius: 4px;
+}
+
+    .pagination a.active {
+        background-color: #007bff;
+        color: white;
+        border: 1px solid #007bff;
+    }
+
+    .pagination a:hover:not(.active) {
+        background-color: #ddd;
+    }
